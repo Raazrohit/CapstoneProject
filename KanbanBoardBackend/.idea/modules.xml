@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KanbanBoard/ApiGateway/ApiGateway.iml" filepath="$PROJECT_DIR$/KanbanBoard/ApiGateway/ApiGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KanbanBoard/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/KanbanBoard/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KanbanBoard/KanbanBoard.iml" filepath="$PROJECT_DIR$/KanbanBoard/KanbanBoard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KanbanBoard/UserAuthenticationService/UserAuthenticationService.iml" filepath="$PROJECT_DIR$/KanbanBoard/UserAuthenticationService/UserAuthenticationService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KanbanBoard/kanbanservice/kanbanservice.iml" filepath="$PROJECT_DIR$/KanbanBoard/kanbanservice/kanbanservice.iml" />
+    </modules>
+  </component>
+</project>
